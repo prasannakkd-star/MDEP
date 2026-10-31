@@ -1,0 +1,27 @@
+# KiCad backups and history
+*-backups/
+.history/
+*.bak
+*.kicad_prl
+*.lck
+~*.kicad_sch
+~*.kicad_pcb
+
+# Temporary and autosave files
+_autosave-*
+*.tmp
+
+# Build outputs
+build/
+dist/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
